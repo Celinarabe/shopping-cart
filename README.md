@@ -30,8 +30,6 @@ Beyond that, other learning outcomes were:
 - [Github Pages](https://pages.github.com/) - Hosting
 - [Prettier](https://prettier.io/) - Code formatter
 - [React Router](https://reactrouter.com/web/guides/quick-start) - Router tool for React applications
-- [Styled Components](https://styled-components.com/) - Javascript and CSS integration library.
-- [Styled Icons](https://styled-icons.js.org/) - Icon aggregation for styled-components
 
 ## More information
 
