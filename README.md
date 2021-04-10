@@ -1,5 +1,4 @@
 # shopping-cart  
-
 - Made as a solution for the Shopping Cart Project in [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript/lessons/shopping-cart)
 
 ## Description
@@ -34,7 +33,6 @@ Beyond that, other learning outcomes were:
 - [React Router](https://reactrouter.com/web/guides/quick-start) - Router tool for React applications
 
 ## More information
-
 
 
 - [ESLint and Prettier configuration on VSCode, by Manorisms](https://www.youtube.com/watch?v=bfyI9yl3qfE)
