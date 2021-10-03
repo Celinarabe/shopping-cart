@@ -1,6 +1,6 @@
 # shopping-cart  
 - Made as a solution for the Shopping Cart Project in [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript/lessons/shopping-cart)
-
+https://celinarabe.github.io/shopping-cart/
 ## Description
 
 [Odin] Clean design of an e-commerce page with shopping-cart capabilities.
